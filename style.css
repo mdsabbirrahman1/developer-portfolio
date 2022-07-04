@@ -1,0 +1,44 @@
+body {
+    font-family: 'Kantumruy Pro', sans-serif;
+    margin: 0px;
+    padding: 0px;
+
+}
+
+.my-blog {
+    display: flex;
+
+    background-image: url(image/exp-bg.png);
+    background-repeat: no-repeat;
+    padding-left: 5%;
+    padding-top: 5px;
+
+
+}
+
+.sabbir {
+    color: orange;
+}
+
+h1 {
+    font-size: 45px;
+}
+
+.img {
+    width: 50%
+}
+
+.my-protfolio {
+    width: 50%;
+    margin-left: 10px;
+
+}
+
+.link {
+    text-decoration: none;
+    background: linear-gradient(to right, orange, tomato);
+    padding: 10px 40px;
+    border-radius: 4px;
+    color: white;
+    font-weight: 900;
+}
