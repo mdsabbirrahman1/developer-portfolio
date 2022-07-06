@@ -2,7 +2,6 @@ body {
     font-family: 'Kantumruy Pro', sans-serif;
     margin: 0px;
     padding: 0px;
-
 }
 
 .my-blog {
@@ -26,8 +25,6 @@ h1 {
 .my-protfolio {
 
     margin-left: 20px;
-
-
 }
 
 .link {
@@ -46,5 +43,54 @@ h1 {
 
 .para {
     width: 500px;
+}
 
+.my-blog-2 {
+    display: flex;
+    background-image: url(image/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+
+.dream-big {
+    width: 500px;
+    margin-left: 30px;
+
+}
+
+.present {
+    color: orange;
+}
+
+.my-blog-3 {
+    display: flex;
+    background-image: url(image/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: 1px;
+    padding: 10px;
+
+}
+
+.full-stack {
+    width: 600px;
+    margin-left: 40px;
+    height: 400px;
+    box-shadow: ;
+    border-left: 5px solid orange;
+    padding: 20px;
+    box-shadow: 20px 20px 16px 20px #ddd;
+}
+
+.baby-web {
+    width: 600px;
+    height: 400px;
+    padding: 20px;
+    margin-left: 30px;
+    box-shadow: 20px 20px 16px 20px #ddd;
+    border-left: 5px solid blue;
+}
+
+.footer-name {
+    text-align: center;
+    margin-top: 100px;
 }
